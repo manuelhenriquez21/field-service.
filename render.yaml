@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: field-service-visitas-demo
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: false
+    envVars:
+      - key: PREVIEW_MODE
+        value: "true"
+      - key: DATA_FILE
+        value: preview-data.json

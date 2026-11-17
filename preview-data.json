@@ -1,0 +1,1300 @@
+{
+  "projects": [
+    "POWER SHIELD EDIFICIO MACUL",
+    "AMPLIACION AGROSUPER",
+    "METRO LINEA 7 ESTACION ISIDORA G",
+    "CD LO AGUIRRE",
+    "ESTANQUE WAYKU",
+    "ESTACION EXTENSION L6 METRO",
+    "TELEFERICO BICENTENARIO",
+    "LICEO TAL TAL",
+    "TAM ESTACION CIUDAD SATELITE",
+    "TAM ESTACION MALLOCO",
+    "TAM ESTACION PADRE HURTADO",
+    "AMPLIACION COLEGIO LOS ANDES",
+    "DANCO ETAPA 2",
+    "TALLERES Y COCHERAS TAM PS PAJARITOS",
+    "UNAB VIÑA",
+    "BLUE EXPRESS II",
+    "PLANTA TRATAMIENTO TALAGANTE",
+    "EMBALSE CAREN",
+    "ESTACION ISIDORA",
+    "CD MOSAICO",
+    "LICEO POLITECNICO",
+    "BLUE EXPRESS ESTACIONAMIENTO",
+    "LABORATORIO UC CHRISTUS",
+    "CLINICA MEDS",
+    "BOULEVARD TOTTUS",
+    "BOSQUES DE LA LIGUA",
+    "Parque Pajonales",
+    "Estanque Nogales",
+    "Estanque Smapa III",
+    "Cenco Florida Center",
+    "Puente Rabuco",
+    "Cesfam Curimon",
+    "Estacionamiento Sn Fernando",
+    "Aducción Valparaiso",
+    "Peap Noruega",
+    "Acuenta Talca",
+    "Estanque Zapallar",
+    "Puente Lo Gallardo",
+    "Planta Litueche",
+    "Borde Costero Papudo",
+    "Muelle Bahía Mansa",
+    "La Platina",
+    "Estanque Bahía Mansa",
+    "Acceso Norte Osorno"
+  ],
+  "people": [
+    "Mauricio R.",
+    "Sergio M.",
+    "Cristian S."
+  ],
+  "events": [
+    {
+      "date": "2026-08-03",
+      "project": "VACACIONES",
+      "person": "Mauricio R.",
+      "kind": "leave",
+      "completed": false,
+      "id": "784327f3-dff1-4c8e-8cfc-181962b2283c"
+    },
+    {
+      "date": "2026-08-03",
+      "project": "BOULEVARD TOTTUS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "742f5fa9-a051-4534-9a7b-c1812d8331a6"
+    },
+    {
+      "date": "2026-08-03",
+      "project": "Estanque Nogales",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "f47ba436-ee49-475b-bfc8-f2aa112cd431"
+    },
+    {
+      "date": "2026-08-04",
+      "project": "TAM ESTACION MALLOCO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "5ff4802d-24bb-4a79-b546-c661c2072835"
+    },
+    {
+      "date": "2026-08-04",
+      "project": "TALLERES Y COCHERAS TAM PS PAJARITOS",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "42dd0d40-e587-4023-909e-f656b4963419"
+    },
+    {
+      "date": "2026-08-04",
+      "project": "LABORATORIO UC CHRISTUS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "fdf4e3a7-6f70-4db9-bbe9-2df406510039"
+    },
+    {
+      "date": "2026-08-04",
+      "project": "BLUE EXPRESS II",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "fd224a9e-aa1e-4474-ba9b-2c41b6f5e829"
+    },
+    {
+      "date": "2026-08-04",
+      "project": "Estanque Smapa III",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "19a19823-f888-46fb-9df6-b8f9577f6df0"
+    },
+    {
+      "date": "2026-08-04",
+      "project": "Parque Pajonales",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "8108f3f7-6942-4593-a052-5b8c78609cef"
+    },
+    {
+      "date": "2026-08-05",
+      "project": "AMPLIACION COLEGIO LOS ANDES",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "6066e30d-f98f-4436-ac3b-b7b44f956453"
+    },
+    {
+      "date": "2026-08-05",
+      "project": "UNAB VIÑA",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "e8b4a53c-c0b7-4d31-aacb-078db6ac90f7"
+    },
+    {
+      "date": "2026-08-05",
+      "project": "Puente Rabuco",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "4718af67-2405-40d6-88f7-aa8c5e51af75"
+    },
+    {
+      "date": "2026-08-05",
+      "project": "Cesfam Curimon",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "e4eb8763-c201-495b-a9d8-b1df7ea9ab1d"
+    },
+    {
+      "date": "2026-08-06",
+      "project": "POWER SHIELD EDIFICIO MACUL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "3a373802-ba31-42ff-8110-d3fbdb1f14e3"
+    },
+    {
+      "date": "2026-08-06",
+      "project": "TAM ESTACION PADRE HURTADO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "664e591a-43fb-4dd7-9b01-d1699df92f00"
+    },
+    {
+      "date": "2026-08-06",
+      "project": "ESTACION EXTENSION L6 METRO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "a708881d-82a5-403c-b9aa-05385abd6d63"
+    },
+    {
+      "date": "2026-08-06",
+      "project": "CD MOSAICO",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "b6d36746-6ac1-447e-b0a0-080ede4bcf07"
+    },
+    {
+      "date": "2026-08-06",
+      "project": "LABORATORIO UC CHRISTUS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "4b56c107-4781-4982-9902-c4e51ae7e08e"
+    },
+    {
+      "date": "2026-08-06",
+      "project": "Puente Lo Gallardo",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "7c450e2e-ba2c-454b-adc7-2e77fba27e9b"
+    },
+    {
+      "date": "2026-08-07",
+      "project": "POWER SHIELD EDIFICIO MACUL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "04d252ee-ec56-4a57-a28b-e8b2839c8b27"
+    },
+    {
+      "date": "2026-08-07",
+      "project": "TAM ESTACION MALLOCO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "a826fa14-6053-4548-a5ca-0e406d9ceeb2"
+    },
+    {
+      "date": "2026-08-07",
+      "project": "PLANTA TRATAMIENTO TALAGANTE",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "f4ad68fc-5b4d-40dc-b4fc-64c3a810d1f9"
+    },
+    {
+      "date": "2026-08-07",
+      "project": "Cenco Florida Center",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "75fa5813-6913-4eeb-ba7e-589dd9b0e4eb"
+    },
+    {
+      "date": "2026-08-07",
+      "project": "Estanque Nogales",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "172f9807-5eb5-483b-a57d-c16b3e16208e"
+    },
+    {
+      "date": "2026-08-10",
+      "project": "AMPLIACION COLEGIO LOS ANDES",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "352f2043-ff83-4a31-ab7c-01ce1a38f0f5"
+    },
+    {
+      "date": "2026-08-10",
+      "project": "DANCO ETAPA 2",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "fb8ac669-fa6a-435f-8caa-1a354344aefd"
+    },
+    {
+      "date": "2026-08-10",
+      "project": "BLUE EXPRESS II",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "b425c0fd-9513-4d25-91ea-07b9b274dc17"
+    },
+    {
+      "date": "2026-08-10",
+      "project": "BLUE EXPRESS ESTACIONAMIENTO",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "6e7d12c9-3812-44e0-bb51-7600f0d532ef"
+    },
+    {
+      "date": "2026-08-10",
+      "project": "La Platina",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "812e79eb-b8a2-4d00-bda8-aeabdc6c3e7d"
+    },
+    {
+      "date": "2026-08-10",
+      "project": "Parque Pajonales",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "315922ee-699d-49e9-a72e-2f159d7551cd"
+    },
+    {
+      "date": "2026-08-11",
+      "project": "TAM ESTACION MALLOCO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "fd5500aa-74e0-4d03-87aa-b851dd103883"
+    },
+    {
+      "date": "2026-08-11",
+      "project": "TALLERES Y COCHERAS TAM PS PAJARITOS",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "1333e2c5-360c-4ecf-8007-31aabb4e00ab"
+    },
+    {
+      "date": "2026-08-11",
+      "project": "UNAB VIÑA",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "3a18df1b-d6cc-48cf-99cb-ed12ea0d84e1"
+    },
+    {
+      "date": "2026-08-11",
+      "project": "Aducción Valparaiso",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "147dfb5f-286d-4acd-bbd1-9f3f36864ca6"
+    },
+    {
+      "date": "2026-08-11",
+      "project": "Peap Noruega",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "e36ac63a-3ece-48ad-990c-3dba190f72c6"
+    },
+    {
+      "date": "2026-08-12",
+      "project": "LICEO TAL TAL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "383d65b3-7d4f-43e5-a0af-7dd8a009659f"
+    },
+    {
+      "date": "2026-08-12",
+      "project": "BOSQUES DE LA LIGUA",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "e3c07837-98b5-4768-a909-049941b8c9f1"
+    },
+    {
+      "date": "2026-08-12",
+      "project": "Estanque Zapallar",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "aeb376f9-7217-4325-8b5e-c5f9e258f9e0"
+    },
+    {
+      "date": "2026-08-12",
+      "project": "Borde Costero Papudo",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "f8c5d886-d60f-4271-9cdf-b9de883f2c2a"
+    },
+    {
+      "date": "2026-08-13",
+      "project": "LICEO TAL TAL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "729171ab-fa95-4a75-852d-50fafa4555e7"
+    },
+    {
+      "date": "2026-08-13",
+      "project": "CD MOSAICO",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "1baa2c5d-f3ab-4a93-928a-b0da06b40850"
+    },
+    {
+      "date": "2026-08-13",
+      "project": "LABORATORIO UC CHRISTUS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "04a73100-6860-4e6e-a1ce-28dd270f575f"
+    },
+    {
+      "date": "2026-08-13",
+      "project": "Estanque Smapa III",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "573f0121-d5d7-4761-ad69-32e2b7a0ccab"
+    },
+    {
+      "date": "2026-08-13",
+      "project": "Cenco Florida Center",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "17f8f41b-6145-4d7d-bb34-f634e21c3ae5"
+    },
+    {
+      "date": "2026-08-14",
+      "project": "LICEO TAL TAL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "id": "c48f8350-9ed8-449c-8e1c-4bad6bf0b4ac"
+    },
+    {
+      "date": "2026-08-14",
+      "project": "PLANTA TRATAMIENTO TALAGANTE",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "id": "7ec701ba-c967-4842-b8b9-53bfc5be32fc"
+    },
+    {
+      "date": "2026-08-14",
+      "project": "Puente Lo Gallardo",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "id": "ac6d337c-897d-44be-91cf-4f46ba10e5ef"
+    },
+    {
+      "id": "d595a554-22b5-459e-8d0f-8a16f8adb53a",
+      "date": "2026-11-01",
+      "project": "Feriado · Día de Todos los Santos",
+      "person": "",
+      "kind": "holiday"
+    },
+    {
+      "id": "ffc6a1b8-4305-4a93-8029-2ad9b9e0800b",
+      "date": "2026-11-02",
+      "project": "METRO LINEA 7 ESTACION ISIDORA G",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "6c4d25a8-211f-4bfd-992f-ac795fccc807",
+      "date": "2026-11-03",
+      "project": "Estanque Bahía Mansa",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "0a86aa86-858c-4879-8731-48c856f847f2",
+      "date": "2026-11-04",
+      "project": "CD LO AGUIRRE",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "2c552691-28de-4ca9-aadd-ae78c74f0f66",
+      "date": "2026-11-04",
+      "project": "CD MOSAICO",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "19563057-4f91-4d71-80a4-f572a927fc0d",
+      "date": "2026-11-04",
+      "project": "Parque Pajonales",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "2f35a868-53eb-428e-a8e6-b678d382477e",
+      "date": "2026-11-05",
+      "project": "TAM ESTACION CIUDAD SATELITE",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e292544c-7ce7-4d1d-a252-e070579218d4",
+      "date": "2026-11-05",
+      "project": "BOSQUES DE LA LIGUA",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "07157513-b5eb-496e-a665-335427b1c639",
+      "date": "2026-11-06",
+      "project": "POWER SHIELD EDIFICIO MACUL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "51895ac8-7245-4d6f-963a-91e0a4734553",
+      "date": "2026-11-09",
+      "project": "LABORATORIO UC CHRISTUS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "b938f8dc-3c73-402a-8aa2-0159db96af60",
+      "date": "2026-11-09",
+      "project": "Estacionamiento Sn Fernando",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "3d43c7dc-06b8-4829-bc55-bd458c08cb2e",
+      "date": "2026-11-10",
+      "project": "ESTANQUE WAYKU",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "0e7021e3-d8be-4b63-bfd0-bcca3da20306",
+      "date": "2026-11-10",
+      "project": "CLINICA MEDS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "2a27b5b8-a36c-472b-9946-5e597e860d32",
+      "date": "2026-11-10",
+      "project": "Puente Lo Gallardo",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "3873899c-efd9-426d-ac34-f25ff0cd7c85",
+      "date": "2026-11-11",
+      "project": "TAM ESTACION PADRE HURTADO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "38a12e9e-2401-488b-8bda-9911ce6bf9d4",
+      "date": "2026-11-13",
+      "project": "Acceso Norte Osorno",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "17f862e7-6b20-48e9-ad91-fee0e6b6ce6b",
+      "date": "2026-11-17",
+      "project": "AMPLIACION COLEGIO LOS ANDES",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "3c8ba60f-5a62-4432-b63b-6fce13840fc4",
+      "date": "2026-11-17",
+      "project": "UNAB VIÑA",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e8848ba0-6d95-417e-a4f7-35eb606eaf93",
+      "date": "2026-11-17",
+      "project": "Estanque Zapallar",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e421417e-a688-458f-9a55-f5b6203152f9",
+      "date": "2026-11-18",
+      "project": "DANCO ETAPA 2",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "ed5bfbeb-bb9a-4492-b8ed-111fffa13295",
+      "date": "2026-11-18",
+      "project": "BLUE EXPRESS ESTACIONAMIENTO",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "f15cc708-6697-4130-8a19-c388728499f3",
+      "date": "2026-11-19",
+      "project": "TAM ESTACION MALLOCO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e678bfdc-db3f-4730-8617-9b73146f5620",
+      "date": "2026-11-20",
+      "project": "Muelle Bahía Mansa",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "5a616a73-0cd0-45d4-b1f5-cf81f6b47414",
+      "date": "2026-11-23",
+      "project": "Peap Noruega",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "0159f226-a664-47da-9e4d-42596b9fa1c1",
+      "date": "2026-11-24",
+      "project": "TALLERES Y COCHERAS TAM PS PAJARITOS",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "8bc81d0c-a6d8-4a26-a008-fffafe1f9ba3",
+      "date": "2026-11-24",
+      "project": "Puente Rabuco",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "3c4a5c1d-0337-47ce-af89-58f1b0853a09",
+      "date": "2026-11-25",
+      "project": "BOULEVARD TOTTUS",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "511f332a-c8bd-4e7b-9280-b5c347733f0b",
+      "date": "2026-11-25",
+      "project": "Cenco Florida Center",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e54cf603-457a-4cbf-a05c-b79a2b797ccf",
+      "date": "2026-11-26",
+      "project": "BLUE EXPRESS II",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "f5621ea8-0bea-407e-8dac-a95b5821d4ae",
+      "date": "2026-11-26",
+      "project": "Borde Costero Papudo",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "9056cc16-507f-445a-9d3c-de94c2d8725d",
+      "date": "2026-11-27",
+      "project": "Planta Litueche",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "19ab7a67-67aa-4393-804c-7b1703916ec6",
+      "date": "2026-11-30",
+      "project": "LICEO POLITECNICO",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "758ba6f7-5d0f-4479-9f4b-c2f8f5dc8907",
+      "date": "2026-12-01",
+      "project": "ESTACION ISIDORA",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "7ed7ce04-2f9b-4e56-8bd7-ebfa71a7fb88",
+      "date": "2026-12-01",
+      "project": "La Platina",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "a11381e7-fd5a-4961-97bb-4a89e6380f65",
+      "date": "2026-12-02",
+      "project": "Estanque Smapa III",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "3428b5a3-f416-495f-8560-43ec43d0a671",
+      "date": "2026-12-03",
+      "project": "ESTACION EXTENSION L6 METRO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "b2225fc8-9318-4747-82b1-e83f874dab0c",
+      "date": "2026-12-03",
+      "project": "Estanque Nogales",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "00d30b42-b087-4980-abbb-ad39c4ad9448",
+      "date": "2026-12-04",
+      "project": "EMBALSE CAREN",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "fba3ac3c-53b1-492d-b828-8fa87d43fcfe",
+      "date": "2026-12-07",
+      "project": "AMPLIACION AGROSUPER",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "b51d23af-1731-4702-9c6a-e6e5982344c1",
+      "date": "2026-12-07",
+      "project": "PLANTA TRATAMIENTO TALAGANTE",
+      "person": "Sergio M.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "4d0d5975-7c86-4515-8625-1aa5692d8da1",
+      "date": "2026-12-07",
+      "project": "Acuenta Talca",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e7bd7a1e-fb38-46d9-a756-f45700bdabdb",
+      "date": "2026-12-08",
+      "project": "Feriado · Inmaculada Concepción",
+      "person": "",
+      "kind": "holiday"
+    },
+    {
+      "id": "35d33717-4837-43a5-98a7-ec96dc5c70d0",
+      "date": "2026-11-27",
+      "project": "LICEO TAL TAL",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false
+    },
+    {
+      "id": "63d4a456-e008-40bb-bfb7-efb6a57444be",
+      "date": "2026-12-11",
+      "project": "TELEFERICO BICENTENARIO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "e8a07ff3-7442-4046-8480-f596ecfbb85e",
+      "date": "2026-12-14",
+      "project": "Cesfam Curimon",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "d6619d4f-b555-440c-a6a0-18f86602b74b",
+      "date": "2026-12-15",
+      "project": "Aducción Valparaiso",
+      "person": "Cristian S.",
+      "kind": "visit",
+      "completed": false,
+      "source": "muestra_nov_dic"
+    },
+    {
+      "id": "8c4a8d29-276e-4511-a564-8431971ec1fa",
+      "date": "2026-11-20",
+      "project": "TAM ESTACION MALLOCO",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false
+    },
+    {
+      "id": "8b56cd31-05e4-4f63-a653-f928e69b0f4f",
+      "date": "2026-11-13",
+      "project": "ESTANQUE WAYKU",
+      "person": "Mauricio R.",
+      "kind": "visit",
+      "completed": false
+    }
+  ],
+  "requests": [],
+  "airTravel": [],
+  "projectDetails": [
+    {
+      "name": "POWER SHIELD EDIFICIO MACUL",
+      "contractor": "COPAHUE",
+      "contract": "2607042",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "AMPLIACION AGROSUPER",
+      "contractor": "INARCO",
+      "contract": "2507223",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "METRO LINEA 7 ESTACION ISIDORA G",
+      "contractor": "OHL",
+      "contract": "2507143",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "CD LO AGUIRRE",
+      "contractor": "TECSA",
+      "contract": "2507213",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "ESTANQUE WAYKU",
+      "contractor": "EBCO",
+      "contract": "2607XXX",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "ESTACION EXTENSION L6 METRO",
+      "contractor": "GRAN MURALLA",
+      "contract": "2607013",
+      "tm": "jg",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "TELEFERICO BICENTENARIO",
+      "contractor": "ICAFAL",
+      "contract": "2507235",
+      "tm": "CS",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "LICEO TAL TAL",
+      "contractor": "PyL",
+      "contract": "2507171",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "TAM ESTACION CIUDAD SATELITE",
+      "contractor": "DRAGADOS",
+      "contract": "2607015",
+      "tm": "GH - JG",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "TAM ESTACION MALLOCO",
+      "contractor": "DRAGADOS",
+      "contract": "2607015",
+      "tm": "GH - JG",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "TAM ESTACION PADRE HURTADO",
+      "contractor": "DRAGADOS",
+      "contract": "2607015",
+      "tm": "GH - JG",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "AMPLIACION COLEGIO LOS ANDES",
+      "contractor": "ECBI",
+      "contract": "2607014",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "DANCO ETAPA 2",
+      "contractor": "CYPCO",
+      "contract": "2607020",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "TALLERES Y COCHERAS TAM PS PAJARITOS",
+      "contractor": "CHINA RAILWAY",
+      "contract": "2507007",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Mauricio R."
+      ]
+    },
+    {
+      "name": "UNAB VIÑA",
+      "contractor": "ECBI",
+      "contract": "2407165",
+      "tm": "GH",
+      "commune": "VIÑA",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "BLUE EXPRESS II",
+      "contractor": "EBCO",
+      "contract": "2507207",
+      "tm": "TM",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "PLANTA TRATAMIENTO TALAGANTE",
+      "contractor": "INLAC",
+      "contract": "2507153",
+      "tm": "TM",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "EMBALSE CAREN",
+      "contractor": "TECNASIC",
+      "contract": "2507113",
+      "tm": "TM",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "ESTACION ISIDORA",
+      "contractor": "OHL",
+      "contract": "2507143",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "CD MOSAICO",
+      "contractor": "INARCO",
+      "contract": "2607005",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "LICEO POLITECNICO",
+      "contractor": "PYL",
+      "contract": "2507171",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "BLUE EXPRESS ESTACIONAMIENTO",
+      "contractor": "EBCO",
+      "contract": "2607053",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "LABORATORIO UC CHRISTUS",
+      "contractor": "INARCO",
+      "contract": "2607046",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "CLINICA MEDS",
+      "contractor": "LYD",
+      "contract": "2507189",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "BOULEVARD TOTTUS",
+      "contractor": "INARCO",
+      "contract": "2607034",
+      "tm": "GH",
+      "commune": "",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "BOSQUES DE LA LIGUA",
+      "contractor": "EBCO",
+      "contract": "2607050",
+      "tm": "MD",
+      "commune": "LA LIGUA",
+      "assignedFs": [
+        "Sergio M."
+      ]
+    },
+    {
+      "name": "Parque Pajonales",
+      "contractor": "FLESAN",
+      "contract": "",
+      "tm": "JF",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Estanque Nogales",
+      "contractor": "Bapa",
+      "contract": "",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Estanque Smapa III",
+      "contractor": "MST",
+      "contract": "",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Cenco Florida Center",
+      "contractor": "Uno Desarrollo",
+      "contract": "",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Puente Rabuco",
+      "contractor": "MST",
+      "contract": "",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Cesfam Curimon",
+      "contractor": "Los Cántaros",
+      "contract": "",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Estacionamiento Sn Fernando",
+      "contractor": "Uno Desarrollo",
+      "contract": "",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Aducción Valparaiso",
+      "contractor": "Terratunnel",
+      "contract": "",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Peap Noruega",
+      "contractor": "ICM",
+      "contract": "",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Acuenta Talca",
+      "contractor": "Tocal",
+      "contract": "",
+      "tm": "JF",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Estanque Zapallar",
+      "contractor": "Gamal",
+      "contract": "",
+      "tm": "JG",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Puente Lo Gallardo",
+      "contractor": "Belfi",
+      "contract": "",
+      "tm": "CS",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Planta Litueche",
+      "contractor": "MST",
+      "contract": "",
+      "tm": "CC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Borde Costero Papudo",
+      "contractor": "Harcha",
+      "contract": "",
+      "tm": "JF",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Muelle Bahía Mansa",
+      "contractor": "Harcha",
+      "contract": "",
+      "tm": "JF",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "La Platina",
+      "contractor": "Icafal",
+      "contract": "",
+      "tm": "CS",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Estanque Bahía Mansa",
+      "contractor": "Rutheni",
+      "contract": "",
+      "tm": "MC",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    },
+    {
+      "name": "Acceso Norte Osorno",
+      "contractor": "IS",
+      "contract": "",
+      "tm": "CS",
+      "commune": "",
+      "assignedFs": [
+        "Cristian S."
+      ]
+    }
+  ]
+}

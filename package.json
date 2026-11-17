@@ -1,0 +1,12 @@
+{
+  "name": "field-service-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demostración web de programación de visitas Field Service",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
